@@ -1,0 +1,68 @@
+
+#behind {
+  background-color: #29292E;
+  border: solid black;
+  border-radius: 40px;
+  width: 805px;
+  margin: 0 auto;
+  padding: 80px;
+}
+
+#page {
+  background-color: white;
+  padding: 40px 80px 40px;
+  
+}
+
+#page img {
+  border-radius: 28px;
+}
+
+main {
+  width: 650px;
+}
+
+#red {
+  color: red;
+}
+
+#title {
+  margin-bottom: 40px;
+}
+
+
+img {
+  width: 650px;
+}
+
+#culture {
+  margin-top: 40px;
+}
+
+#titlelist {
+  margin-top: 64px;
+}
+
+#titlelist h2 {
+  margin: 2px 0 4px;
+}
+
+#culture1 img {
+  margin-top: 35px;
+}
+
+#culture2 {
+  margin: 48px 0;
+}
+
+#culture3 ul {
+  margin-bottom: 40px;
+}
+
+#culture3 {
+  margin-bottom: 40px;
+}
+
+footer {
+  margin: 65px 230px 0;
+}
