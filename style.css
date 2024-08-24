@@ -1,3 +1,7 @@
+:root {
+  font-family: "Open Sans", sans-serif;
+}
+
 
 #behind {
   background-color: #29292E;
@@ -16,6 +20,28 @@
 
 #page img {
   border-radius: 28px;
+}
+
+#page h1, h2, h3, #red {
+  font-weight: 700;
+}
+
+h1 {
+  font-size: 21px;
+}
+
+h2 {
+  font-size: 18px;
+}
+
+h3 {
+  font-size: 17px;
+}
+
+#city p {
+  text-align: center;
+  font-size: 9px;
+  font-style: italic;
 }
 
 main {
@@ -47,6 +73,28 @@ img {
   margin: 2px 0 4px;
 }
 
+#titlelist p  {
+  font-size: 9px;
+}
+
+#titlelist #red {
+  font-size: 16px;
+}
+
+#culture1 p, #culture2 p, #culture3 p {
+  font-size: 9px;
+}
+
+#culture1 p + p, #culture2 p + p, #culture3 p + p {
+  font-size: 16px;
+  font-weight: 700;
+}
+
+#end {
+  font-size: 9px;
+  text-align: center;
+}
+
 #culture1 img {
   margin-top: 35px;
 }
@@ -65,4 +113,5 @@ img {
 
 footer {
   margin: 65px 230px 0;
+  font-size: 14px;
 }
