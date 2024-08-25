@@ -1,5 +1,6 @@
 :root {
   font-family: "Open Sans", sans-serif;
+  
 }
 
 
@@ -27,7 +28,8 @@
 }
 
 h1 {
-  font-size: 21px;
+  font-size: 20px;
+
 }
 
 h2 {
@@ -103,8 +105,26 @@ img {
   margin: 48px 0;
 }
 
+#culture1 li, #culture2 li {
+  color: blue;
+}
+
 #culture3 ul {
   margin-bottom: 40px;
+}
+
+#culture3 li {
+  color: #591B98;
+  padding: 0;
+
+}
+
+#culture3 li + li {
+  color: #E5245E;
+}
+
+#culture3 li + li + li {
+  color: #E95E10;
 }
 
 #culture3 {
@@ -112,6 +132,14 @@ img {
 }
 
 footer {
+  font-family: "Alice", serif;
   margin: 65px 230px 0;
   font-size: 14px;
+  color: #333333;
+}
+
+footer img {
+  vertical-align: middle;
+  width: 16px;
+  height: 16px;
 }
